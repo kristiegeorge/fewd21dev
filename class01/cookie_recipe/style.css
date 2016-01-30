@@ -1,0 +1,26 @@
+body {
+	background: #FFE;
+	border: 1px solid black;
+}
+
+/*Comment Here*/
+
+img {
+	border: 1px solid black;
+
+}
+
+h2 span {
+	color: #887;
+}
+/* class */
+.auxHeader {
+	color: #887;
+}
+
+/* id */
+#top {
+
+}
+
+/* tag */
