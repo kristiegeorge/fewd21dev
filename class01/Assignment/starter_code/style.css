@@ -1,0 +1,130 @@
+body {
+font-family: sans-serif;
+background: #fefefe;
+padding: 60px;
+border-bottom: 5px solid #222222;
+border-top: 5px solid #222222;
+margin: 40px;
+color: #05080C;
+font-size: 18px;
+line-height: 1.5;
+}
+
+.commonstyles a {
+  color: #05080C;
+  font-weight: bold;
+
+
+}
+
+.commonstyles small {
+  font-size: 10px;
+  text-transform: uppercase;
+font-weight: bold;
+padding: 10px;
+
+}
+
+.commonstyles strong {
+
+}
+
+h1 {
+font-family: sans-serif;
+
+
+}
+
+.commonstyles h2 {
+
+}
+
+.commonstyles h3 {
+  margin-top: 42px;
+  text-transform: uppercase;
+  font-size: 18px;
+
+}
+
+.commonstyles h4 {
+  margin-bottom: 0;
+}
+
+.commonstyles p {
+  font-family: Georgia;
+  margin-top: 0;
+  margin-bottom: 27px;
+}
+
+.commonstyles ul {
+  list-style: square;
+}
+
+.commonstyles ul p {
+
+}
+
+.commonstyles li {
+
+}
+
+.commonstyles hr {
+  border: none;
+  border-top: 1px solid #222222;
+  margin: 30px 0;
+}
+
+.commonstyles img {
+  margin-left: 60px;
+  margin-bottom: 20px;
+  border: 1px solid #222222;
+  padding: 5px;
+  text-align: center
+}
+
+.commonstyles img[alt] {
+  float: right;
+}
+
+.toc {
+
+  max-width: 300px;
+  float:right;
+  margin: 0 0 20px 20px;
+}
+
+.toc .toclevel-1 {
+  color: 
+
+}
+
+.toc .toclevel-1 > a {
+  font-weight: bold;
+  font-size: 14px;
+  color: #2a388f;
+  text-decoration: none;
+
+}
+
+.toc .toclevel-2 {
+
+}
+
+.toc .toclevel-2 > a {
+  font-weight: normal;
+  font-size: 12px;
+  color: #666666;
+  text-decoration: none;
+
+}
+
+.datatable td {
+  padding: 8px 14px;
+
+}
+
+.datatable td:first-child{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+}
